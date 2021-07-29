@@ -1,0 +1,46 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    background-color: hotpink;
+    box-shadow: 5px 5px 5px hotpink;
+}
+
+.headingDiv {
+    float: none;
+    background-color: pink;
+    padding: 10px;
+    border-radius: 20px;
+    color: hotpink;
+    box-shadow: 5px 5px 5px hotpink;
+}
+
+.headingDiv2 {
+    font-size: 18px;
+}
+
+.resultPTag {
+    box-shadow: 5px 5px 5px hotpink;
+    font-size: 20px;
+}
+
+.footer {
+    position: fixed;
+    color: pink;
+    background-color: hotpink;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas {
+    border: 5px dashed black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px hotpink;
+    margin-top: 100px;
+}
+
+body{
+    background-size: cover;
+}
